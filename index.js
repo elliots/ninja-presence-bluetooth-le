@@ -4,6 +4,7 @@ var Presence = require('ninja-presence-base');
 module.exports = Presence;
 
 Presence.prototype.G = 'bluetoothle';
+Presence.prototype.name = 'Presence - Bluetooth LE'
 Presence.prototype.scan = function() {
   var self = this;
 
