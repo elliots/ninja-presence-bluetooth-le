@@ -1,13 +1,13 @@
 {
   "name": "ninja-presence-bluetooth-le",
   "version": "0.0.1",
-  "description": "A presence driver for NinjaBlocks for Bluetooth LE devices",
+  "description": "NinjaBlocks Presence Driver - Bluetooth LE (Mac, Linux)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
-  "author": "Elliot Shepherd",
+  "author": "Elliot Shepherd <elliot@ninjablocks.com>",
   "license": "MIT",
   "dependencies": {
     "noble":"git://github.com/sandeepmistry/noble.git",
